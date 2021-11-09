@@ -13,15 +13,15 @@
 ## קיימים שלושה מסכים במשחק:
 ### מסך התחלתי
  במסך זה ניתן לראות את התפריט הראשי שבו מופיע שם המשחק ולחצן שמוביל למשחק עצמו.
-  [תמונה 1](https://github.com/KoralElbaz/Tetris-Racing-Game/blob/main/Assets/images/startScreen.PNG)
+![](https://github.com/KoralElbaz/Tetris-Racing-Game/blob/main/Assets/images/startScreen.PNG)
   
 ### מסך משחק
  במסך זה נמצא המשחק שתאירתי למעלה.
-  [תמונה 2](https://github.com/S-K-Game/HW3-QB.3/blob/master/Assets/move2.cs)
+![](https://github.com/KoralElbaz/Tetris-Racing-Game/blob/main/Assets/images/gameScreen.PNG)
 
 ### מסך פסילה - המשחק נגמר
  זהו מסך שלאחר שהשחקן התנגש 3 פעמים הוא נפסל ומגיע למסך זה.
-  [תמונה 3](https://github.com/S-K-Game/HW3-QB.3/blob/master/Assets/move2.cs)
+![](https://github.com/KoralElbaz/Tetris-Racing-Game/blob/main/Assets/images/gameoverScreen.PNG)
 
 
  
