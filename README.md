@@ -24,11 +24,6 @@
 ![](https://github.com/KoralElbaz/Tetris-Racing-Game/blob/main/Assets/images/gameoverScreen.PNG)
 
 
- 
-[לחץ כאן על מנת לעבור לסקריפט שבו בוצעו השינויים](https://github.com/S-K-Game/HW3-QB.3/blob/master/Assets/move2.cs) 
-
- 
- 
  [The Game- למעבר למשחק לחץ כאן](https://sivan-koral.itch.io/tetris-racing-game)
  
  
